@@ -1,0 +1,19 @@
+/*  */
+/*  */
+
+.app__ul {
+  display: flex;
+}
+
+.app__ul li {
+  margin: 5px 0;
+  list-style-type: none;
+}
+
+.app__ul li a {
+  text-decoration: none;
+}
+
+.app__ul-liContainer {
+  margin: 0 10px;
+}
