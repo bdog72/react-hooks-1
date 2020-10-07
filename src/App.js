@@ -2,12 +2,13 @@
 //
 
 import React from 'react';
-import Bozo from './tutorial/3-conditional-rendering/setup/2-short-circuit';
+
+import './styles/style.css';
 
 function App() {
   return (
-    <div className='container'>
-      <Bozo />
+    <div>
+      <h1>Bozo</h1>
     </div>
   );
 }
