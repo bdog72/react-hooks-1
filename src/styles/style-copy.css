@@ -12,7 +12,6 @@
   box-sizing: border-box;
 }
 body {
-  /* background: whitesmoke; */
   background: var(--mainGrey);
   color: var(--mainBlack);
   font-family: 'Roboto', sans-serif;
